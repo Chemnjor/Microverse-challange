@@ -1,6 +1,6 @@
 # Microverse-challange
 
-<html lang="en">
+<html lang="en"> 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,6 +25,7 @@
   
   
   <section id="welcome-section">
+      <p> we are trying</p>
     <h1> We have programming experience </h1>
     <p> hi I'm full stack developer,creating creative website for companies all across the world</p> 
   </section>
